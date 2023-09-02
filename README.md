@@ -19,7 +19,7 @@ Code developed during the completion of the bachelor's thesis titled *"Computati
 ```
 
 ## Content
-- **Source code**
+- [**Source code**](#src-folder)
     1. [Automated Launch](#1-auto-launch)
     2. [Plotting](#2-plotting)
     3. [Fitting](#3-fitting)
@@ -27,7 +27,7 @@ Code developed during the completion of the bachelor's thesis titled *"Computati
 - **License**
 - **Bachelor Thesis** (.pdf)
 
-## src folder
+## SRC folder
 ### 1. Auto-Launch
 
 **create_input_files.ipynb** is the main file for this repository.
