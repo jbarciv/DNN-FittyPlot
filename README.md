@@ -1,7 +1,7 @@
 # DNN-FittyPlot
 Code developed during the completion of the bachelor's thesis titled *"Computational Study of Oscillatory Growth Instability in Directional Solidification of Alloys"* as part of a Research Initiation Fellowship (RIF) at the IMDEA Materials research center.
 
->The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing
+The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing
 ```
 @article{barbera2023,
 	doi = {10.1088/1757-899X/1281/1/012050},
@@ -17,18 +17,16 @@ Code developed during the completion of the bachelor's thesis titled *"Computati
 	journal = {IOP Conference Series: Materials Science and Engineering},
 }
 ```
->> This study was supported by the Spanish Ministry of Science and Innovation through the María de Maeztu seal of excellence of IMDEA Materials Institute (CEX2018-000800-M)
+> This study was supported by the Spanish Ministry of Science and Innovation through the María de Maeztu seal of excellence of IMDEA Materials Institute (CEX2018-000800-M).
 
 ## Content
-- [**Source code**](#src-folder)
+- [**Source code**](#source-code)
     1. [Automated Launch](#1-auto-launch)
     2. [Plotting](#2-plotting)
     3. [Fitting](#3-fitting)
-- **Examples**
-- **License**
-- **Bachelor Thesis** (.pdf)
+- [**Acknowledgments**](#acknowledgments)
 
-## SRC folder
+## Source code
 ### 1. Auto-Launch
 
 **create_input_files.ipynb** is the main file for this repository.
@@ -89,3 +87,13 @@ Key Features:
     - `dimensionless = 0`: Initially set to 0, but if you prefer to use dimensionless values, change it to 1.
 
 Additionally, there are other smaller details, some of which are commented on in the Jupyter or Python files, while others are not. Feel free to contact me at chemabc@gmail.com if you have any questions or require further assistance. I'm here to help!
+
+## Acknowledgments
+
+This work would not have been possible without the invaluable guidance of Damien Tourret and the consistent assistance of Thomas Isensee.
+
+I also extend my gratitude to the rest of Damien's group at IMDEA: Jose, Jorge, Adrian, Mohamed, and Rouhollah, for their continuous support.
+
+Finally, I would like to express my thanks to the Spanish Ministry of Science and Innovation for their support through the María de Maeztu seal of excellence at the IMDEA Materials Institute (CEX2018-000800-M).
+
+
