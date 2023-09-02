@@ -19,16 +19,16 @@ Code developed during the completion of the bachelor's thesis titled *"Computati
 ```
 
 ## Content
-- **src folder**
-    1. create_input_files (.ipynb)
-    2. plotting (.py)
-    3. signal_fitting (.ipynb)
-- **examples folder**
+- **Source code**
+    1. [Automated Launch](#1-auto-launch)
+    2. [Plotting](#2-plotting)
+    3. [Fitting](#3-fitting)
+- **Examples**
 - **License**
 - **Bachelor Thesis** (.pdf)
 
 ## src folder
-### 1. create_input_files
+### 1. Auto-Launch
 
 **create_input_files.ipynb** is the main file for this repository.
 
@@ -60,7 +60,7 @@ Once executed, you will generate three types of files: input files (.in), launch
 
 Outside of the simulation folder created, you will find an scp file. Running this file will upload all the generated files (located inside the simulation folder) to the server. Ensure you have a stable and fast connection with the server as it relies on scp for file transfer.
 
-### 2. plotting
+### 2. Plotting
 
 **plotting.py** is the executable file designed for plotting a dynamic grid of figures, where the number of figures within the plot can vary.
 
@@ -73,7 +73,7 @@ Here's how it works:
 
 4. **Customization:** In the `main()` section of the code, you have the flexibility to define your own customization options for plotting. It's advisable to define any preferred aliases in your `.bashrc` or `.zshrc` file to streamline the execution of this script.
 
-### 3. signal_fitting
+### 3. Fitting
 
 This notebook, **signal_fitting.ipynb**, holds significant importance. It serves as a tool for function fitting, offering an innovative approach.
 
