@@ -17,6 +17,7 @@ Code developed during the completion of the bachelor's thesis titled *"Computati
 	journal = {IOP Conference Series: Materials Science and Engineering},
 }
 ```
+>> This study was supported by the Spanish Ministry of Science and Innovation through the María de Maeztu seal of excellence of IMDEA Materials Institute (CEX2018-000800-M)
 
 ## Content
 - [**Source code**](#src-folder)
