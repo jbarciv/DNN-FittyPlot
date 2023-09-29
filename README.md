@@ -1,5 +1,5 @@
 # DNN-FittyPlot
-<!-- Code developed during the completion of the bachelor's thesis titled *"Computational Study of Oscillatory Growth Instability in Directional Solidification of Alloys"* as part of a Research Initiation Fellowship (RIF) at the IMDEA Materials research center.
+Code developed during the completion of the bachelor's thesis titled *"Computational Study of Oscillatory Growth Instability in Directional Solidification of Alloys"* as part of a Research Initiation Fellowship (RIF) at the IMDEA Materials research center.
 
 The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing
 ```
@@ -86,6 +86,8 @@ Key Features:
     - `desired_start = 9`: This parameter determines the start time for the fitting range, and it holds considerable importance.
     - `dimensionless = 0`: Initially set to 0, but if you prefer to use dimensionless values, change it to 1.
 
+![Fitting_example](./examples/fitting_example.png)
+
 Additionally, there are other smaller details, some of which are commented on in the Jupyter or Python files, while others are not. Feel free to contact me at chemabc@gmail.com if you have any questions or require further assistance. I'm here to help!
 
 ## Acknowledgments
@@ -96,4 +98,4 @@ I also extend my gratitude to the rest of Damien's group at IMDEA: Jose, Jorge, 
 
 Finally, I would like to express my thanks to the Spanish Ministry of Science and Innovation for their support through the María de Maeztu seal of excellence at the IMDEA Materials Institute (CEX2018-000800-M).
 
- -->
+
