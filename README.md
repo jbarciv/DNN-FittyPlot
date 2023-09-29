@@ -1,7 +1,7 @@
 # DNN-FittyPlot
 Code developed during the completion of the bachelor's thesis titled *"Computational Study of Oscillatory Growth Instability in Directional Solidification of Alloys"* as part of a Research Initiation Fellowship (RIF) at the IMDEA Materials research center.
 
-The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing
+The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing.
 ```
 @article{barbera2023,
 	doi = {10.1088/1757-899X/1281/1/012050},
@@ -68,9 +68,15 @@ Here's how it works:
 
 2. **Plotting:** It then proceeds to plot various data, such as velocity vs. time, and can also generate a smooth version of the velocity by calculating the derivative of the position, allowing you to choose the level of smoothness.
 
+![Fitting_example](./examples/big_plot.png)
+
 3. **Folder Creation:** Additionally, the script creates a folder named 'small_grid' within which it generates another set of plots, each containing other relevant information for each simulation. An example of such plots can be found in the 'examples' folder.
 
+![Fitting_example](./examples/small_plot.png)
+
 4. **Customization:** In the `main()` section of the code, you have the flexibility to define your own customization options for plotting. It's advisable to define any preferred aliases in your `.bashrc` or `.zshrc` file to streamline the execution of this script.
+
+
 
 ### 3. Fitting
 
