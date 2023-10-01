@@ -1,6 +1,8 @@
 # DNN-FittyPlot
 Code developed during the completion of the bachelor's thesis titled *"Computational Study of Oscillatory Growth Instability in Directional Solidification of Alloys"* as part of a Research Initiation Fellowship (RIF) at the IMDEA Materials research center.
 
+It comprises three code files designed to streamline the process of initiating multiple simulations on a GPU cluster, constructing a grid of plots from the resulting data, and subsequently automating dynamic fitting of the output data to a specified function.
+
 The work undertaken within this thesis has also led to the publication of a peer-reviewed article focusing on the mechanisms of the buoyancy-induced oscillatory growth instability in directional solidification. If you find this work (or code) helpful please consider citing.
 ```
 @article{barbera2023,
@@ -29,7 +31,7 @@ The work undertaken within this thesis has also led to the publication of a peer
 ## Source code
 ### 1. Auto-Launch
 
-**create_input_files.ipynb** is the main file for this repository.
+The code file for this section is: **create_input_files.ipynb**.
 
 To get started with creating input files for simulations, follow these steps:
 
@@ -103,5 +105,3 @@ This work would not have been possible without the invaluable guidance of Damien
 I also extend my gratitude to the rest of Damien's group at IMDEA: Jose, Jorge, Adrian, Mohamed, and Rouhollah, for their continuous support.
 
 Finally, I would like to express my thanks to the Spanish Ministry of Science and Innovation for their support through the María de Maeztu seal of excellence at the IMDEA Materials Institute (CEX2018-000800-M).
-
-
