@@ -14,7 +14,7 @@ The work undertaken within this thesis has also led to the publication of a peer
 	volume = {1281},
 	number = {1},
 	pages = {012050},
-	author = {Josep María Barberá and Thomas Isensee and Damien Tourret},
+	author = {Josep Maria Barbera and Thomas Isensee and Damien Tourret},
 	title = {On the occurrence of buoyancy-induced oscillatory growth instability in directional solidification of alloys},
 	journal = {IOP Conference Series: Materials Science and Engineering},
 }
